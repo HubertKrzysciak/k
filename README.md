@@ -1,2 +1,2 @@
 # MOJE PIERWSZE REPO 
-# PÓKI CO NIC NIE DZIAŁA!
+# PÓKI CO DZIAŁA!
